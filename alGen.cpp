@@ -20,5 +20,6 @@ using namespace std;
     evaluarIndividuo(&indiv, vectorSolucion);
     mostrarIndividuo(&indiv);
 
+
     return 0;
 }
