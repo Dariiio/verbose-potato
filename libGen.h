@@ -48,3 +48,4 @@ void evaluarIndividuo(individuo_str * indiv, int vectorSolucion[]){
         }
     }
 }
+//comentario loooool
